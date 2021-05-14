@@ -1,0 +1,52 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.body1
+{
+    background-image:url(../image/kanoria-college2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.home{
+
+    margin-top: 5%;
+    padding-top:2%;
+    font-size:25px;
+    font-family: 'PT Sans', sans-serif;
+    color:#ee0092;
+    text-align: center;
+}
+
+.paragraph{
+    word-spacing: 2px;
+    font-family: Roboto, sans-serif;
+    background-image:linear-gradient(#ee0092,#5b0077);
+    opacity:70%;
+    margin-top:10px;
+    color:#fff;
+    font-size: 19px;
+    text-align: justify-all;
+    padding: 3%;
+    padding-left: 3%;
+    margin-right:30%;
+    margin-left:3%;
+    border-radius: 3%;
+   
+ }
+
+.image
+{
+    margin-left: 73%;
+    height:10px;
+    width:15px;
+    padding-right: 10%;
+}
+.foot
+{
+    margin-top: -3.5%;
+}
+

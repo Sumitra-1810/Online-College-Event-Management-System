@@ -1,0 +1,33 @@
+
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+   background-image: url(../image/bg1.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+   .home p
+{
+    font-family: 'Great Vibes', cursive;
+	text-align: center;
+    font-size: 55px;
+    color: #fff;
+    padding-top:7%;
+}
+
+
+.image
+{ 
+	padding-left:70px;
+	padding-top:20px;
+	word-spacing:30px;
+}
+
+.image a
+{
+    text-decoration: none;
+}

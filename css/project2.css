@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body
+{
+    font-size:20px;
+    overflow-x: hidden;
+    color:white;
+    font-family: 'Flamenco', cursive;
+   
+}
+header
+{
+    background-image: url("../image/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    opacity:100%;
+}
+.clearfix:after
+{
+    content:".";
+    visibility: hidden;
+    display: block;
+    height: 0px;
+    clear:both;
+}
+.menu
+{
+    max-width: 1420px;
+    margin:0 auto;
+}
+.logo
+{
+    height:110px;
+    width:auto;
+    float:left;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.main-nav 
+{
+   float:right;
+    margin-top: 50px;
+}
+.main-nav li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 40px;
+    
+}
+.main-nav li a{
+    color:white;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-size: 100%;
+    font-weight: 100;
+}
+.main-nav li a:hover
+{ 
+    border-bottom: 2px solid #fff;
+    
+}
+
+.main-content-header
+{
+   width:1420px;
+    position: absolute;
+    top:55%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+h1
+{
+    color:white;
+    font-size:500%;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight:bold;
+    
+}
+h2
+{
+    color:white;
+    font-size:150%;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight:lighter;
+    
+}
+
+.btn
+{
+    display:inline-block;
+    padding: 15px 30px;
+    font-weight: lighter;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+.btn-full
+{
+    background-color:transparent;
+    color:deeppink;
+    font-weight: bolder;
+    margin-right:15px;
+    border: 3px solid deeppink;
+}
+.btn-full:hover
+{
+    background-color:#fff
+}
+.colorchange
+{
+    animation: color 2s infinite;
+}
+@keyframes color{
+    0%{color:red;}
+    25%{color:green;}
+    50%{color:white;}
+    75%{color: yellow;}
+    85%{color: black;}
+    100%{color:blue;}
+    
+}
+/*display:flex;
+    justify-content: space-around;
+    align-items: center;*/

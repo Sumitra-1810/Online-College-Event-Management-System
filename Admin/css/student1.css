@@ -1,0 +1,31 @@
+*
+{
+    margin:0px;
+    padding:0px;
+   
+}
+.container .col-lg-12 h1
+{
+    padding-left:35%;
+    color: #ea1d63;
+    font-weight: bold;
+    margin-top: -2%;
+}
+.table
+{
+    margin-left: 15%;
+    
+}
+.table tr
+{
+    background-color: white;
+}
+.table tr th
+{
+    background-color:gray ;
+    
+}
+.table tr td
+{
+    color: black;
+}

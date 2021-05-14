@@ -1,0 +1,166 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+
+.contactus
+{
+    position:relative;
+    min-height:100vh;
+    padding:25% 100px;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     background-image:
+    url("../image/kanoria-college.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+     
+   
+}
+.contactus .content
+{
+    max-width: 800px;
+    text-align:center;
+    padding-bottom:4%;
+    padding-top:10%;
+    
+}
+.contactus .content h2
+{
+    font-size:40px;
+    font-weight:bolder;
+    color:#ee0092;
+    
+    
+}
+.contactus .content p
+{
+     
+    font-weight: 500;
+    word-spacing: 2px;
+    font-size:20px;
+}
+.contain
+{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.contain .info
+{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.contain .info .box
+{
+    position: relative;
+    padding:20px 0;
+    display:flex;
+}
+.contain .info .box .icon
+{
+    min-width:60px;
+    height: 60px;
+    display:flex;
+    background:#fff;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.contain .info .box .text
+{
+    margin-left: 20px;
+    font-size:16px;
+    flex-direction: column;
+    font-weight: 700;
+}
+.contain .info .box .text h3
+{
+    font-weight: 500;
+    color:#ee0092;
+    font-size:25px;
+}
+.contact-form
+{
+    width:40%;
+    
+    padding:70px;
+    background: #fff;
+}
+.contact-form h2
+{
+    font-size:30px;
+    color:#333;
+    font-weight: 500;
+}
+.contact-form .input
+{
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+}
+.contact-form .input input,
+.contact-form .input textarea
+{
+    width:100%;
+    padding:5px 0;
+    font-size: 16px;
+    margin:10px 0;
+    border:none;
+    border-bottom:2px solid #333;
+    outline: none;
+    resize: none;
+}
+.contact-form .input span
+{
+    position:absolute;
+    left:0;
+    padding:5px 0;
+    font-size:16px;
+    margin:10px 0;
+    pointer-events: none;
+    transition: 0.5s;
+    color: #666;
+}
+.contact-form .input input:focus~ span,
+.contact-form .input input:valid~ span,
+.contact-form .input textarea:focus~ span,
+.contact-form .input textarea:valid~ span
+{
+    color:#e91e63;
+    font-size:12px;
+    transform:translateY(-20px);
+}
+.contact-form .input  input[type="submit"]
+{
+    width:100px;
+    background: red;
+    color:#fff;
+    border:none;
+    cursor:pointer;
+    padding: 10px;
+    font-size:18px;
+}
+.footer
+{
+    margin-top:-4%;
+}
+
+
+
+
+
+

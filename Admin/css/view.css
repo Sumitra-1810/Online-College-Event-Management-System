@@ -1,0 +1,60 @@
+*
+{
+  box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+
+
+   
+.container
+{
+    max-width:1140px;
+    margin:auto;
+    position:relative;
+    min-height: 1px;
+}
+
+
+
+.team .card
+{
+    width:25%;
+   margin-left:22%;
+    margin-top: -1%;
+    padding: 0px 15px;
+}
+.team .card .box 
+{
+    padding: 15px;
+    background:#fff;
+  width:600px;
+    margin-top:20%;
+    margin-left:50%;
+    height:580px;
+    border-radius: 5%;
+}
+.team .card .box img
+{
+    width:160px;
+    height:160px;
+    display:block;
+    margin: 10px auto;
+    border-radius: 25%;
+    
+}
+.team .card .box h4
+{
+    padding-left:10%;
+    padding-top: 6%;
+}
+.team .card .box .store 
+{
+    padding-left: 52%;
+   margin-top: -4%;
+    font-size: 18px;
+}
+
+
+   

@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+ html, body {
+      position: relative;
+      height: 100%;
+}
+*
+{
+    margin:0px;
+    padding: 0px;
+}
+
+body
+{
+   
+	background-image: url(../image/k13.jpg);
+      background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     
+      margin: 0;
+      padding: 0;
+    
+}
+
+.pos
+{
+    padding-bottom: 17%;
+}
+.login-box
+{
+	 width:30%;
+     
+	 background-color:rgba(0,0,0,0.5);/*rgba() allows us to define a color with its opacity */
+	 margin: 0 auto; /* to align center*/
+	
+	 padding-top:10px; /*css padding property used to generate space around na element's content inside of any define border*/
+ 	 padding-left:40px;
+	 border-radius:15px; /* border-radius property round the corner of element.*/
+	 color:#fff;
+	 font-weight:bolder;
+	
+	 font-size:18px; /* to increase the weight of heading*/
+	
+}
+
+.login-box h1
+{
+	 /*no need of it*/
+	
+	font-size:40px;
+	text-align:center;/*problem*/
+	padding-right:50px;
+
+}
+.textbox
+{
+	width:80%;
+	font-size:20px;
+	padding:8px 0;
+	margin:40px 0;
+	border-bottom:1px solid #FFF;
+}
+.textbox i
+{
+}
+.textbox input
+{
+	border:none;
+	outline:none;
+	background:none;/* to remove the white background*/
+	color: white;
+	font-size:18px;
+	width:80%;
+
+}
+.start
+{
+    margin-top: -7%;
+    color:red;
+    font-weight:normal;
+   
+    
+}
+
+
+.btn 
+{
+	top:15%;
+    left:50%;
+     background:red;
+     width: 25%;
+     height: 50px;
+     color: #fff;
+     font-size: 20px;
+     border-radius: 7px;
+    border:0px;
+     cursor: pointer;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    margin-left:33%;
+}
+.bottom input
+{
+    width:10%;
+    float:left;
+    font-weight: 0;
+    
+}
+.bottom-text a
+{
+    float:right;
+}
+::placeholder
+{
+	color:000;
+}
+
+.eye
+{
+    position: absolute;
+}
+
+#hide1
+{
+ display: none;   
+}
