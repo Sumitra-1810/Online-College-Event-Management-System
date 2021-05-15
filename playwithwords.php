@@ -26,6 +26,6 @@
  	<li>Third cash prize will be 2000.</li>
  	<li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: RICHA(9314283539)</p>
+<p>COORDINATOR: Ms.RICHA</p>
 </body>
 </html>

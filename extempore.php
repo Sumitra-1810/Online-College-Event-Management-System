@@ -27,6 +27,6 @@
     <li>Third cash prize will be 2000.</li>
     <li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: SWATI SHARMA(7976050847)</p>
+<p>COORDINATOR:Mrs.SWATI SHARMA</p>
 </body>
 </html>

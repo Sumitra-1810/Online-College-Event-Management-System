@@ -25,6 +25,6 @@
  	<li>Third cash prize will be 2000.</li>
  	<li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: JAYANTI GOYAL(9828458172)</p>
+<p>COORDINATOR: Dr.JAYANTI GOYAL</p>
 </body>
 </html>

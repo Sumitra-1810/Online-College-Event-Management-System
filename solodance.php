@@ -25,6 +25,6 @@
     <li>Third cash prize will be 2000.</li>
     <li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: REKHA SHARMA(9785225747)</p>
+<p>COORDINATOR: REKHA SHARMA</p>
 </body>
 </html>

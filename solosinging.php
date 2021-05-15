@@ -26,6 +26,6 @@
     <li>Third cash prize will be 2000.</li>
     <li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: DEEPIKA(9460372663)</p>
+<p>COORDINATOR: DEEPIKA</p>
 </body>
 </html>

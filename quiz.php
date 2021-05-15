@@ -25,6 +25,6 @@
  	<li>Third cash prize will be 2000.</li>
  	<li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: RAJANI(9636243604)</p>
+<p>COORDINATOR: Mrs.RAJANI GORA</p>
 </body>
 </html>

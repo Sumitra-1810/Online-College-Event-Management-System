@@ -26,6 +26,6 @@
     <li>Third cash prize will be 2000.</li>
     <li>Decision of judges will be final.</li>
 </ul>
-<p>COORDINATOR: DIVYA SHARMA(9694829772)</p>
+<p>COORDINATOR:Ms. DIVYA SHARMA</p>
 </body>
 </html>
